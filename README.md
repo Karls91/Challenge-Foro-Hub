@@ -1,6 +1,6 @@
 #  ForoHub
 
-**ForoHub** es una API REST desarrollada como parte de un reto de conocimeinto en Java y Spring Framework
+**ForoHub** es una API REST desarrollada como parte del challenge de conocimeinto en Java y Spring Framework
 
 ## Características
 
